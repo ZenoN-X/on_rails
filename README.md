@@ -16,4 +16,4 @@
 4. Feed yönetim sistemi,
 5. Site üzerinde anlık olarak cache sistemi,
 6. Yüksek cözünürlüklü site içeriği,
-7. svg, psd, eps ve diğer vektörel içeriklerin kullanımı
+7. svg, psd, eps ve diğer vektörel içeriklerin kullanımı.
