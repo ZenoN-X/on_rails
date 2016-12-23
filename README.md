@@ -19,4 +19,3 @@
 7. svg, psd, eps ve diğer vektörel içeriklerin kullanımı.
 
 ![ZenoN-X Logo](https://avatars3.githubusercontent.com/u/24498336?v=3&u=3e5935ae43abd7166967f3660568ff105680dd67&s=400)
-Format: ![Alt Text](url)
