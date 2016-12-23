@@ -9,7 +9,7 @@
 8. Göz yormayan site tasarımı ve renk seçimleri,
 9. F-pattern site dizaynı/tasarımı.
 
-# YAKINDA EKLENECEK ÖZELLİKLER :
+### YAKINDA EKLENECEK ÖZELLİKLER :
 1. Dust.js/Handlebars template motoru,
 2. En yeni veritabanı sistemi,
 3. Sosyal medya analiz sistemi,
